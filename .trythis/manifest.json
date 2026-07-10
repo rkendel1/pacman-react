@@ -1,0 +1,12 @@
+{
+  "artifacts": {
+    "changes": "changes.json",
+    "history": "history.json",
+    "launch": "launch.json"
+  },
+  "generated_at": 1783724519,
+  "purpose": "lookup-last-good-launch",
+  "repository": "ws-de43dbbf0d03dd6a",
+  "schema": "trythis.manifest/v1",
+  "workspace": "ws-de43dbbf0d03dd6a"
+}
